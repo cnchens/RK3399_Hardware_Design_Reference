@@ -1,0 +1,2 @@
+# RK3399_Hardware_Design_Reference
+ RK3399_Design_Guide_2017
